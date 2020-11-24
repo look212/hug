@@ -4,12 +4,13 @@
 https://look212.github.io/img/
 
 ```
-npm install vue
-vue create newsletter-maker
-cd newsletter-maker
-npm install vue-router
-yarn add vuex
-yarn add es6-promise
+$ newsletter-maker npm install vue
+$ newsletter-maker vue create newsletter-maker
+$ newsletter-maker cd newsletter-maker
+$ newsletter-maker npm install vue-router
+$ newsletter-maker yarn add vuex
+$ newsletter-maker yarn add es6-promise
+$ newsletter-maker npm run serve
 
-npm run serve
+$ img vue ui 
 ```
