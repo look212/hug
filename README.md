@@ -1,4 +1,4 @@
-# img
+# newletter
 
-이미지 올리는 용도
+뉴스레터 작업물
 https://look212.github.io/img/
